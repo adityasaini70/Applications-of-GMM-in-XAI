@@ -27,3 +27,7 @@ Our approach got better fidelity and stability than LIME for all the 5 datasets
 ![image](https://user-images.githubusercontent.com/49980787/158472686-04c3c9c0-abbd-44b2-90c8-d120813a4fec.png)
 
 Preprint coming out soon!
+
+## License
+
+![MIT License](https://github.com/adityasaini70/Applications-of-GMM-in-XAI/blob/main/LICENSE)
