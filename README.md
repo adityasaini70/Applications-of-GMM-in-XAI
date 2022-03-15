@@ -11,6 +11,16 @@ proposed technique on five real-world datasets is done, and the superior stabili
 algorithm using metrics like Kendall’s W and R2
 score is demonstrated.
 
+## Stability issue
+
+Demonstrated on a sample index from the breast cancer dataset by generating explanations for 10 consecutvie iterations.
+
+LIME            |  GXPlain
+:-------------------------:|:-------------------------:
+![Lime_rankings](https://user-images.githubusercontent.com/49980787/158475404-85d0b06b-090b-4034-9cb0-cf3f7eeb5349.png) |  ![BGMMLIME_rankings](https://user-images.githubusercontent.com/49980787/158475419-132fe821-ec0f-45c7-91a3-86374ac6e866.png)
+
+
+
 ## Evaluation
 
 The evaluation was done for the dollowing datasets and models over metrics like Kendall's W(for stability) and R2 score(for fidelity). The notebooks for all the datasets can be found in the root folder.
