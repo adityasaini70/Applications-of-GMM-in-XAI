@@ -1,11 +1,11 @@
-# Applications-of-GMM-in-XAI
+# GXPlain: Gaussian mixture based EXplanations
 
 ## Abstract
-The popular LIME(Local Interpretable Model-Agnostic Explanations) framework suffers from the
+The popular GXPlain(Gaussian mixture based local interpretable model agnostic EXplanations) framework suffers from the
 confounding issue of inconsistent explanations which renders it completely useless for safety-critical
 domains like healthcare and robotics, where the notion of trustworthiness and consistency are of
 the utmost importance. In this work, a novel modification of LIME based on Gaussian Mixture
-Models based clustering called BGMLIME(Bayesian Gaussian Mixture based Local Interpretable
+Models based clustering called GXPlain(Gaussian Mixture based Local Interpretable
 Model Agnostic Explanations) is proposed. A thorough analysis showcasing the performance of the
 proposed technique on five real-world datasets is done, and the superior stability and fidelity of the
 algorithm using metrics like Kendall’s W and R2
@@ -30,4 +30,4 @@ Preprint coming out soon!
 
 ## License
 
-![MIT License](https://github.com/adityasaini70/Applications-of-GMM-in-XAI/blob/main/LICENSE)
+[MIT License](https://github.com/adityasaini70/Applications-of-GMM-in-XAI/blob/main/LICENSE)
