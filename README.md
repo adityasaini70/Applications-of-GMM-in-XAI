@@ -15,7 +15,7 @@ score is demonstrated.
 
 Demonstrated on a sample index from the breast cancer dataset by generating explanations for 10 consecutvie iterations.
 
-LIME            |  GXPlain
+LIME            |  BGMLIME
 :-------------------------:|:-------------------------:
 ![Lime_rankings](https://user-images.githubusercontent.com/49980787/158475404-85d0b06b-090b-4034-9cb0-cf3f7eeb5349.png) |  ![BGMMLIME_rankings](https://user-images.githubusercontent.com/49980787/158475419-132fe821-ec0f-45c7-91a3-86374ac6e866.png)
 
